@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal | Ben Purvis</title>
+    <link>/category/personal/</link>
+      <atom:link href="/category/personal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Personal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Personal</title>
+      <link>/category/personal/</link>
+    </image>
+    
+    <item>
+      <title>An undisciplinary journey</title>
+      <link>/post/an-undisciplinary-journey/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/an-undisciplinary-journey/</guid>
+      <description>&lt;p&gt;The title of this post refers to a wonderful paper by 
+&lt;a href=&#34;https://link.springer.com/article/10.1007/s11625-017-0445-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haider et al (2017)&lt;/a&gt;, which reflects on the experiences of a group of early career researchers working within sustainability science. They use the term &amp;lsquo;undisciplinary&amp;rsquo; to articulate the space occupied by these scholars in the absence of any strong affinity to a traditional discipline. This resonated with me. It evokes on some level an iconoclastic, counter cultural liberation from a rigid tradition, but at the same time an uncomfortable feeling of not fitting in, of doing sommething wrong or forbidden, &amp;lsquo;this is not how we do things here&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;I studied Physics as my undergraduate degree, gearing my specialisation towards the theoretical maths heavy areas of cosmology and particle physics. Having being engaged in a 
+&lt;a href=&#34;https://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.022118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summer research project&lt;/a&gt; during this time, I had decided that academic research was something I wouldn&amp;rsquo;t mind doing as a career. Thus, during my final year I began to apply for PhD programs. My grades were good, but the area I had chosen to focus my efforts, cosmology, was at the same time one of the most mathematically challenging, and most competitive areas. Ultimately I was unsuccessful in this. Somewhat despondent I began to look into alternate career paths, by chance however I stumbled upon an advertisement for an 
+&lt;a href=&#34;https://www.nottingham.ac.uk/complex-systems/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EPSRC funded&lt;/a&gt; PhD studentship relating to sustainability, an area which I had a political interest in, seeking a mathematician or physicist. I applied, and was successful.&lt;/p&gt;
+&lt;p&gt;In 2015 then I joined Nottingham University&amp;rsquo;s 
+&lt;a href=&#34;https://www.nottingham.ac.uk/research/groups/lucas/index.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laboratory of Urban Complexity and Sustainability&lt;/a&gt; with the working project title &amp;lsquo;physical modelling of sustainable urbanisation&amp;rsquo;. In practice this was supplemental funding for the Leverhulme Trust funded project 
+&lt;a href=&#34;https://www.nottingham.ac.uk/research/groups/lucas/research/sustaining-urban-habitats-an-interdisciplinary-approach.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Sustaining urban habitats: an interdisciplinary approach&amp;rsquo;&lt;/a&gt; of which I was an active part, sharing office space with other students from the project.&lt;/p&gt;
+&lt;figure&gt;
+&lt;a title=&#34;mattbuck / CC BY-SA (creativecommons.org/licenses/by-sa/2.0)&#34; href=&#34;https://commons.wikimedia.org/wiki/File:University_Park_MMB_86_Lenton_Hurst.jpg&#34;&gt;&lt;img  alt=&#34;University Park MMB 86 Lenton Hurst&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/University_Park_MMB_86_Lenton_Hurst.jpg/512px-University_Park_MMB_86_Lenton_Hurst.jpg&#34;&gt;&lt;/a&gt;
+ &lt;figcaption&gt;
+Lenton Hurst, University Park Nottingham, where LUCAS was based.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;This ambitious project drew together a broad range of researchers from across the social and natural sciences with the aim to &lt;em&gt;&amp;ldquo;transform our understanding of how sustainable cities, and by extension our species, can be&amp;rdquo;&lt;/em&gt;. Thus it was intended that I would utilise my &amp;lsquo;expertise&amp;rsquo; as a physicist, with an analytical modelling background and a personal interest in environmentalism, in this interdisciplinary environment. Of course the PhD is a singular endeavour, so this meant carving out my own research project within the context of the wider group&amp;rsquo;s shared aims. Nevertheless my immersion in an interdisciplinary environment strongly influenced the evolution of my research, particularly regarding my own personal epistemology.&lt;/p&gt;
+&lt;p&gt;Initially my research was intended to focus solely on the case of an entropic indicator for sustainability, a framework would have been developed for its measurement at the urban scale, with reference to what other components must compliment it to give a more complete measure of sustainability.&lt;/p&gt;
+&lt;p&gt;As the research panned out however, 
+&lt;a href=&#34;/publication/entropy-and-its-application-to-urban-systems/&#34;&gt;it became clear that the entropy approach was severely limited in its application&lt;/a&gt;. The decision was thus made to abort developing this case further. The failure of this approach to bear fruit proved to be integral to the evolution of my thinking, and marked a fundamental shift in my ontological and epistemological assumptions. I became very critical of what I have perceived as natural scientists attempting to prescribe &amp;lsquo;rigour&amp;rsquo; (as I had attempted to do myself) to areas typically dominated by the softer sciences, as well as social scientists borrowing little understood concepts from the natural sciences, which through their unfamiliarity to peer reviewers in this area, escape proper scrutiny.&lt;/p&gt;
+&lt;p&gt;Coupled with this disillusionment with my previous epistemological grounding, my work surveying the conceptual history of sustainability had revealed that 
+&lt;a href=&#34;/publication/three-pillars-of-sustainability/&#34;&gt;there existed no clear theoretical origin or rationale of the &amp;lsquo;three pillar paradigm&amp;rsquo;&lt;/a&gt; with which I had centred my work upon, as well as a subversion of the radical aims of the original sustainability literature by their institutionalisation. Along with 
+&lt;a href=&#34;https://link.springer.com/article/10.1007/s10806-015-9578-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ramsey (2015)&lt;/a&gt;&amp;lsquo;s arrgument that &amp;ldquo;We cannot define our way to clarity&amp;rdquo; (p1085), and the pluralism of voices fostered by my interdisciplinary research environment, my thinking had taken a dramatic departure from my original research aims which were grounded within a positivist framework. How could I salvage a research frame that I no longer believed in? Did this mean my original research design was poor? Yet paradoxically without undertaking this work I wouldn&amp;rsquo;t have undergone such a shift in thinking.&lt;/p&gt;
+&lt;p&gt;With my faith shaken in the fundamental core of my research I turned to friends and colleagues for advice in directions I could take to salvage my PhD. It was through discussions with 
+&lt;a href=&#34;https://blogs.nottingham.ac.uk/makingsciencepublic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brigitte Nerlich&lt;/a&gt;, and later her partner 
+&lt;a href=&#34;https://sites.google.com/site/nottinghamddc/contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Clarke&lt;/a&gt;, that the system dynamics work of 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Jay_Wright_Forrester&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jay Forrester&lt;/a&gt; was mentioned as a potential avenue for exploration. I had come across this work in passing at various points in the literature through the oft cited Limits to Growth report by the Club of Rome, and had been intrigued by a reproduction of the graphical presentation of the underlying World3 model in 
+&lt;a href=&#34;https://www.mdpi.com/2071-1050/7/8/9864&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pasqualino et al (2015)&lt;/a&gt; (see below). I therefore went on to explore this model further as a potential for developing an alternative approach for addressing my original endeavour to better understand &amp;lsquo;urban sustainability&amp;rsquo;.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&#34;/post/2020-05-02-an-undisciplinary-journey_files/world3.png&#34;&gt;
+ &lt;figcaption&gt;
+Diagram of the World3 model structure, reproduced from &lt;a href=&#34;https://books.google.co.uk/books?id=qCjKz8S_VKIC&#34;&gt;Meadows et al. 1974&lt;/a&gt;  (pp490-491).
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Thus my PhD journey represented a shift in my worldview from a primarily positivist tradition featuring textbooks full of foundational &amp;lsquo;facts&amp;rsquo; to a constructivist realm where even the foundations of knowledge are contested. It captures an escape from a disciplinary silo into an area which is rich in interdisciplinary, post-disciplinary, and &amp;lsquo;undsiciplined&amp;rsquo; understandings.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

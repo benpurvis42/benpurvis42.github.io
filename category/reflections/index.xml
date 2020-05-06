@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ben Purvis</title>
-    <link>https://benpurvis42.github.io/</link>
-      <atom:link href="https://benpurvis42.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ben Purvis</description>
+    <title>Reflections | Ben Purvis</title>
+    <link>https://benpurvis42.github.io/category/reflections/</link>
+      <atom:link href="https://benpurvis42.github.io/category/reflections/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reflections</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://benpurvis42.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Ben Purvis</title>
-      <link>https://benpurvis42.github.io/</link>
+      <title>Reflections</title>
+      <link>https://benpurvis42.github.io/category/reflections/</link>
     </image>
     
     <item>
@@ -52,22 +52,6 @@ Diagram of the World3 model structure, reproduced from &lt;a href=&#34;https://b
 &lt;/figure&gt;
 &lt;p&gt;Thus my PhD journey represented a shift in my worldview from a primarily positivist tradition featuring textbooks full of foundational &amp;lsquo;facts&amp;rsquo; to a constructivist realm where even the foundations of knowledge are contested. It captures an escape from a disciplinary silo into an area which is rich in interdisciplinary, post-disciplinary, and &amp;lsquo;undsiciplined&amp;rsquo; understandings.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Entropy and its Application to Urban Systems</title>
-      <link>https://benpurvis42.github.io/publication/entropy-and-its-application-to-urban-systems/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://benpurvis42.github.io/publication/entropy-and-its-application-to-urban-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Three pillars of sustainability: in search of conceptual origins</title>
-      <link>https://benpurvis42.github.io/publication/three-pillars-of-sustainability/</link>
-      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://benpurvis42.github.io/publication/three-pillars-of-sustainability/</guid>
-      <description></description>
     </item>
     
   </channel>
