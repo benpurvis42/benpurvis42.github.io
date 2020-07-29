@@ -5,12 +5,41 @@
     <link>https://benpurvis42.github.io/tag/historical/</link>
       <atom:link href="https://benpurvis42.github.io/tag/historical/index.xml" rel="self" type="application/rss+xml" />
     <description>Historical</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://benpurvis42.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Historical</title>
       <link>https://benpurvis42.github.io/tag/historical/</link>
     </image>
+    
+    <item>
+      <title>On that &#34;venn diagram&#34;. Three circles of sustainability</title>
+      <link>https://benpurvis42.github.io/post/on-that-venn-diagram-three-circles-of-sustainability/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://benpurvis42.github.io/post/on-that-venn-diagram-three-circles-of-sustainability/</guid>
+      <description>&lt;p&gt;In a 
+&lt;a href=&#34;https://benpurvis42.github.io/publication/three-pillars-of-sustainability/&#34;&gt;2019 paper&lt;/a&gt;, I wrote about the conceptual origins, or lack thereof, of the popular &amp;lsquo;three pillars&amp;rsquo; paradigm of sustainability, comprising of environmental, social, and economic dimensions. Here it was argued that rather than having a single, rigorously conceived origin and underlying theory, this perspective emerged out of the early sustainability literature from twin critiques of the economic status quo from environmental and social perspectives. This is often visualised as a Venn diagram, or more accurately three intersecting circles representing each individual pillar.&lt;/p&gt;
+&lt;p&gt;Like the three pillars themselves, the origins of this diagram are not popularly known or acknowledged; it is typically taken as a given with little critical consideration to its implied meaning. This diagram appears to have originated initially from Barbier&amp;rsquo;s 1987 paper 
+&lt;a href=&#34;https://doi.org/10.1017/S0376892900011449&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Concept of Sustainable Economic Development&lt;/em&gt;&lt;/a&gt;, where it was used to argue that three systems, ecological, economic, and social are integral for consideration in any development process. Here each system is ascribed goals: “genetic diversity, resilience, biological productivity”; “satisfying basic needs (reducing poverty), equity-enhancing, increasing useful goods and services”; and “cultural diversity, institutional sustainability, social justice, participation”, respectively. “The general objective of sustainable economic development, then, is to maximize the goals of all these systems through an adaptive process of trade-offs” (p104). Barbier later describes this diagram as &amp;ldquo;infamous&amp;rdquo; 
+&lt;a href=&#34;https://doi.org/10.1111/j.1477-8947.2011.01397.x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Barbier 2011)&lt;/a&gt;.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&#34;Barbier.jpg&#34;&gt;
+ &lt;figcaption&gt;
+Reproduction of Barbier&#39;s original Venn diagram.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Whilst this figure is typically described as a Venn diagram, it often lacks the strict logical properties of one. The diagram reproduced below has been 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Sustainability#Three_dimensions_of_sustainability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;displayed on Wikipedia since 2006&lt;/a&gt;, and labels intersections as &amp;lsquo;bearable&amp;rsquo;, &amp;lsquo;equitable&amp;rsquo;, and &amp;lsquo;viable&amp;rsquo;. Whilst the Wikipedia article references these to a 2006 report, these intersection labels are absent. So where did they come from, what is the theory behind these labels? The insidious nature of Wikipedia as a source for &amp;lsquo;established knowledge&amp;rsquo; means these terms have seeped into the sustainability literature without any attributed source or meaning (simply Google &amp;ldquo;viable equitable bearable&amp;rdquo; for countless examples). In places this is even referenced to Dreo (2006), User:Nojhan, the original contributor in the Wikipedia article. Dreo&amp;rsquo;s 
+&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Sustainable_development.svg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;image itself&lt;/a&gt; attributes its source as a translation from an 
+&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Developpement_durable.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;equivalent diagram present on French Wikipedia&lt;/a&gt;. This translation of &lt;em&gt;vivable&lt;/em&gt;, &lt;em&gt;equitable&lt;/em&gt;, and &lt;em&gt;viable&lt;/em&gt; 
+&lt;a href=&#34;https://www.collinsdictionary.com/dictionary/french-english/vivable&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;explains why&lt;/a&gt; &amp;lsquo;liveable&amp;rsquo; is often seen in place of &amp;lsquo;bearable&amp;rsquo; in some quarters.&lt;/p&gt;
+&lt;p&gt;These labels may derive from a 2000 report by Rouxel and Rist 
+&lt;a href=&#34;https://www.amazon.fr/d%C3%A9veloppement-durable-m%C3%A9thodologique-diagnostics-territoriaux/dp/B000WVENSW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;where it appears on the cover&lt;/a&gt;, however I have been unable to obtain a copy of this, and my reliance on translation tools presents a barrier for understanding. Whatever the source of these terms, contemporary use appears to be detached from any underlying theory. Their unsourced, and unelaborated presence on Wikipedia remains problematic in perpetuating this typology.&lt;/p&gt;
+&lt;p&gt;The &amp;lsquo;Venn diagram&amp;rsquo; is routinely criticised in the literature. In presenting each circle as equal sized, the implication is that each system or set of goals holds equal importance. Not only does this mask underlying ideology, but if we are to subscribe to the &amp;lsquo;balancing of trade-offs&amp;rsquo; description of the pillars, it produces scenarios where only tangibly related economic goals may be pursued at the expense of ecological or social aspects. It is for this reason that an alternate conception of three &amp;lsquo;nested&amp;rsquo; circles may also be seen, emphasising the reliance of systems upon each other. The origins of this diagram too our unclear, although a very early version may be found (again in French) in René Passet&amp;rsquo;s 1979 
+&lt;a href=&#34;https://books.google.co.uk/books/about/L_%C3%89conomique_et_le_vivant.html?id=4RFOAQAAIAAJ&amp;amp;redir_esc=y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;L&amp;rsquo;Économique et le vivant&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The unclear origins of these diagrams, and their mainstreaming within the literature as unsourced and unelaborated is problematic. Whilst often authors provide their own meaning, it is common to see them uncritically accepted and perpetuated without consideration of the underlying ideology behind them. It is important to emphasise sustainability as ideological and the synthesis of mainstream economic discourses into it as a key component should be resisted.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Three pillars of sustainability: in search of conceptual origins</title>
